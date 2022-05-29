@@ -1,2 +1,3 @@
 # trace_number_location
-how to Use the tool
+How to use this tool
+To use this tool,you first need to download the necessary files and libraries
