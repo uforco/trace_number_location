@@ -1,5 +1,4 @@
 # Trace Number Location
-
 How to use this tools:
 
 To use this tool, you first need to download the necessary files and libraries
