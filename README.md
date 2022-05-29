@@ -9,17 +9,17 @@ pip install `PackageName`
 
 All the files that need to be downloaded :
 
-- install python-decouple
+- install `python-decouple`
 
-- install pyfiglet
+- install `pyfiglet`
 
-- install phonenumbers
+- install `phonenumbers`
 
-- install opencage
+- install `opencage`
 
-- install folium
+- install `folium`
 
-- install numpy
+- install `numpy`
 
  ## The next step is to create a file in the root file location name `APIKAY.text`
  
